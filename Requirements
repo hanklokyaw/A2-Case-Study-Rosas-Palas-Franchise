@@ -1,0 +1,15 @@
+Case - Rosas Palas Franchise
+
+Using an accounting database called H_Accounting to create the Profit and Loss (P&L) and Balance Sheet (B/S) statements and Cash Flow Statement (CFS)
+
+ 
+The stored procedure must achieve the following:
+
+Receive as an argument the year for which the user wants to produce the P&L and B/S statements
+Do the necessary calculations to obtain the net profit or loss for that year
+Use that value, to produce the B/S
+Demonstrate that A = L + E
+Print both the P&L and B/S as clear as possible on the Result Grids
+Show the % change vs. the previous year for every major line item on the P&L and B/S
+Give some headings to each major account line item. And to each section of the P&L and B/S
+Add any additional financial metrics and ratios that could be useful to analyze this start-up
